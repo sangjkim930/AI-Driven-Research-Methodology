@@ -1,0 +1,31 @@
+Create a comparative literature review table for the five uploaded papers.
+
+Use one row for each paper and exactly the following columns:
+
+Authors
+Year
+Country or Context
+Research Question
+Theory Explicitly Stated
+Environmental Performance Measure
+Financial Performance Measure
+Sample
+Sample Period
+Methodology
+Main Finding
+Relationship Classification
+Limitations
+Potential Research Gap
+
+Instructions:
+
+- Use only the uploaded papers.
+- Provide source citations for the information reported.
+- Clearly distinguish each paper's own empirical findings from prior studies cited in the paper.
+- For Environmental Performance Measure, report how environmental performance was actually measured.
+- For Financial Performance Measure, report the actual financial performance measures used.
+- For Relationship Classification, classify the relationship as Positive, Negative, Insignificant, Nonlinear, or Mixed when supported by the paper.
+- Write "Not reported" when information cannot be verified from the paper.
+- Do not invent or infer missing information.
+- Identify a Potential Research Gap only when it can be supported by the uploaded papers.
+- Keep each cell concise.
